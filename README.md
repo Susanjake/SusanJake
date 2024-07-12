@@ -5,7 +5,7 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a CS student at Saintgits College of Engineering.
+- 🔭 CSE graduate.
 - 📚 I’m familiar with full stack development with flask and bootstrap. I'm also interested in machine learning
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/-susanjacob-/) [Gmail](susan.csb2024@saintgits.org)
 
